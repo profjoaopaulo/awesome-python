@@ -11,7 +11,7 @@
     entries.
 
     This could be extended by having nested blocks, sorting them recursively
-    and flattening the end structure into a list of lines. Revision 2 maybe ^.^.
+    and flattening the end structure into a list of lines. Revision 2 maybe ^.^ (Good).
 """
 
 def sort_blocks():
